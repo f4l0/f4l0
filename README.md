@@ -6,7 +6,7 @@ When I'm not working on innovative projects, I'm diving deep into all things tec
 
 - 🔥 Building IoT solutions to automate and simplify daily tasks.
 - 🤯 Exploring new technologies and pushing boundaries in the tech space.
-- 🎮 Lead Developer of SimShaker for Aviators: As the lead developer of SimShaker for Aviators, I have the privilege of working on software that enhances the flight simulation experience for thousands of users worldwide. 🌍 The software brings immersive effects to aviation enthusiasts, making their simulations more realistic and engaging. 🚁✈️
+- 🎮 Lead Developer of SimShaker for Aviators (https://github.com/SimShaker-for-Aviators): As the lead developer of SimShaker for Aviators, I have the privilege of working on software that enhances the flight simulation experience for thousands of users worldwide. 🌍 The software brings immersive effects to aviation enthusiasts, making their simulations more realistic and engaging. 🚁✈️
 
 ⚡️ Always excited to collaborate on projects that challenge the norm and make life easier!
 
